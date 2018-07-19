@@ -4,10 +4,10 @@ Using the links below create an app that displays the fatcs and advice you want.
 
 ## Resources
 
-- [Numbders API](target="_blank" http://numbersapi.com/#42)
+- [Numbders API](target="_blank"?http://numbersapi.com/#42)
 
-- [Random Facts API](target="_blank" http://api.adviceslip.com/#endpoint-random)
+- [Random Facts API](target="_blank"?http://api.adviceslip.com/#endpoint-random)
 
-- [Bootswatch](target="_blank" https://bootswatch.com/)
+- [Bootswatch](target="_blank"?https://bootswatch.com/)
 
-- [Bootstrap Docs](target="_blank" https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+- [Bootstrap Docs](target="_blank"?https://getbootstrap.com/docs/4.1/getting-started/introduction/)
