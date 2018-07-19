@@ -3,7 +3,7 @@ const adviceAPI  = 'http://api.adviceslip.com/advice'
 const galvanizeCORS = 'https://galvanize-cors.herokuapp.com/'
 const button = document.querySelector('button')
 
-funciton getNumbers(url,url){
+function getNumbers(url,url){
     fetch(url1+url2)
         .then(res =>  {
 
