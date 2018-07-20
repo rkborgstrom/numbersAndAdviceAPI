@@ -1,10 +1,11 @@
 let apiYears = `http://numbersapi.com/random/year?json`
 let apiAdvice = 'http://api.adviceslip.com/advice'
 
+
+
 const h1 = document.querySelector('h1');
 const p = document.querySelector('p');
 const h2 = document.querySelector('h2');
-
 
 fetch(apiYears)
     .then(response => response.json())
@@ -23,3 +24,6 @@ fetch(apiAdvice)
         h2.textContent = data.slip.advice;
 
     });
+
+
+
